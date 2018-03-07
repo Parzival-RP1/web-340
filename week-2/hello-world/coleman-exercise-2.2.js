@@ -1,3 +1,12 @@
+/* ============================================ 
+; Title: Exercise 2.2
+; Author: Richard Krasso 
+; Date: 6 March 2018
+; Modified By: Daniel Coleman
+; Description: hello world with express / test server with cURL
+;=========================================== */
+
+
 // require statements / library to start server
 var express = require('express');
 var http = require('http');
